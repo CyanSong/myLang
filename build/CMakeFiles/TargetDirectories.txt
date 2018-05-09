@@ -1,6 +1,0 @@
-/home/cyan/simple-tool/simple-tool/build/CMakeFiles/edit_cache.dir
-/home/cyan/simple-tool/simple-tool/build/CMakeFiles/rebuild_cache.dir
-/home/cyan/simple-tool/simple-tool/build/CMakeFiles/intrinsics_gen.dir
-/home/cyan/simple-tool/simple-tool/build/source/CMakeFiles/rebuild_cache.dir
-/home/cyan/simple-tool/simple-tool/build/source/CMakeFiles/edit_cache.dir
-/home/cyan/simple-tool/simple-tool/build/source/CMakeFiles/simple-tool.dir

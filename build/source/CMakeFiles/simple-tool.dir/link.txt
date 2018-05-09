@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/simple-tool.dir/tool.cpp.o  -o simple-tool 
